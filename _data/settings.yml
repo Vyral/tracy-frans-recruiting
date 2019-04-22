@@ -10,21 +10,21 @@ custom_links:
   - title: Free Strategy Call
     url: /contact/
 client:
-  name:
-  title:
+  name: Tracy Frans
+  title: CRS
   license_number:
   about_markdown: |
 
-  market:
+  market: Omaha
   brand:
-  brokerage:
+  brokerage: eXp Realty
   address:
-  phone:
+  phone: 402-321-2800
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: tracy@tracyfrans.com
+  url: http://tracyfrans.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -54,11 +54,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/TracyFransRealtorPro/
+  linkedin_url: https://www.linkedin.com/in/tracy-frans-34548b29
   gplus_url:
   youtube_url:
-  twitter_url:
+  twitter_url: https://www.twitter.com/tracyfranshomes
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -84,8 +84,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#000000'
+  theme_color: '#000000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
