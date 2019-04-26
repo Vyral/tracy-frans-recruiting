@@ -4,7 +4,7 @@ description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares 
 show_custom_links: true
 custom_links:
   - title: Join Our Team
-    url: /join-our-team/
+    url: http://tracyfrans.exprealty.careers/
   - title: Events
     url: #
   - title: Free Strategy Call
