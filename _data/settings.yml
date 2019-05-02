@@ -1,6 +1,6 @@
 audit_header: false
-title: "-- MARKET --'s Best Real Estate Training"
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "Omaha's Best Real Estate Training"
+description: Tracy Frans, a top Real Estate Agent in Omaha, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -8,17 +8,17 @@ custom_links:
   - title: Events
     url: #
   - title: Free Strategy Call
-    url: /contact/
+    url: /strategy-call/
 client:
   name: Tracy Frans
   title: CRS
   license_number:
   about_markdown: |
-
+    As your Omaha realty expert, expect my three C’s to success to get the best results for you. And those three C’s are: Creativity, communication, and closing the deal. My clients can expect creative solutions. There is no cookie-cutter approach here. What we offer is a tailor-made experience based on what you want and what you expect. I make the time to understand just exactly what you want and how to deliver it to you as quickly as possible.
   market: Omaha
-  brand:
-  brokerage: eXp Realty
-  address:
+  brand: eXp Realty
+  brokerage:
+  address: 536 S 185th St, Omaha, NE 68118
   phone: 402-321-2800
   phone_type:
   phone2:
@@ -67,19 +67,19 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Omaha Real Estate Podcast with Tracy Frans'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Omaha Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional Omaha Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Omaha, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Tracy Frans'
 
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
+  hero_logo_path: /img/logo2.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Omaha Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -97,7 +97,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
