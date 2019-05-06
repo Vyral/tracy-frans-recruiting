@@ -19,12 +19,12 @@ client:
   brand: eXp Realty
   brokerage:
   address: 536 S 185th St, Omaha, NE 68118
-  phone: 402-321-2800
+  phone: 402-321-1111
   phone_type:
   phone2:
   phone2_type:
   email: tracy@tracyfrans.com
-  url: http://tracyfrans.com
+  url: http://AgentOwners.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
