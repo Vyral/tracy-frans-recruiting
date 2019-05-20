@@ -1481,7 +1481,7 @@ label.tree-toggle {
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
-  padding-top: 7.5rem; }
+  padding-top: 6.5rem; }
 
 .site-logo {
   width: 90%;
@@ -2381,6 +2381,9 @@ table tr, table td {
 
 .footer-pad {
   padding-top: 20px; }
+
+.ideal {
+  width: 200px; }
 
 .item-container {
   margin: 3rem 5rem;
