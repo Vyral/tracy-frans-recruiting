@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Advantages Does a Cloud-Based Brokerage Have?
-date: 2019-07-15 19:43:02
+date: 2019-07-15 19:43:00
 tags:
   - Lead Generation
 excerpt: >-
   A cloud-based brokerage is efficient, mobile, and the future of real estate.
   Here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tracy+Frans/What+Advantages+Does+a+Cloud-Based+Brokerage+Have_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
