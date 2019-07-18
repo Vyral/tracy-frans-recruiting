@@ -5,4 +5,4 @@ permalink: /Events/
 ---
 
 
-<img src="/img/flyer.png" alt="{{site.data.settings.client.name}}" class="client-image"/>
+<img src="/img/flyer.png" alt="" class=""/>
