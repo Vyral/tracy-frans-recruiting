@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- Events -- 
+title: Events
 permalink: /Events/
 ---
 
