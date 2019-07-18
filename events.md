@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Events
-permalink: /Events/
+permalink: /events/
 ---
 
 
-<img src="/img/flyer.png" alt="" class="half-image"/>
+<img src="/img/flyer.png" class="half-image"/>
