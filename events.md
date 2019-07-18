@@ -5,4 +5,4 @@ permalink: /Events/
 ---
 
 
-<img src="/img/flyer.png" alt="" class=""/>
+<img src="/img/flyer.png" alt="" class="half-image"/>
