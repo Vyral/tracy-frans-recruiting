@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/7-15---tracy--brandon-franz---youtube.jpg
-youtube_code: 0Xc3B90D6Z0
+youtube_code: yLYMiC0DrSU
 ---
 
 {% include youtube.html %}
