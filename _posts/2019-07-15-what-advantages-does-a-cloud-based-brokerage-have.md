@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/7-15---tracy--brandon-franz---youtube.jpg
+youtube_alternate_image: /uploads/7-19---tracy--brandon-franz---youtube.jpg
 youtube_code: yLYMiC0DrSU
 ---
 
