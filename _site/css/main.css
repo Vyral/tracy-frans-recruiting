@@ -1389,7 +1389,7 @@ html[xmlns] .flexslider .slides {
 
 .nav-logo {
   float: left !important;
-  max-width: 250px;
+  max-width: 400px;
   margin: 5px;
   padding: 10px; }
 
@@ -1503,6 +1503,9 @@ label.tree-toggle {
   .site-logo {
     max-width: 20rem; } }
 @media (max-width: 760px) {
+  #hero {
+    padding-top: 0; }
+
   .site-logo {
     max-width: 20rem;
     margin-top: 4rem; }
@@ -1839,7 +1842,7 @@ table tr, table td {
 .half-image {
   display: block;
   margin: 0 auto;
-  width: 50%; }
+  width: 70%; }
 
 .three-quarter-image {
   display: block;
@@ -2383,7 +2386,7 @@ table tr, table td {
   padding-top: 20px; }
 
 .ideal {
-  width: 200px; }
+  width: 350px; }
 
 .item-container {
   margin: 3rem 5rem;
