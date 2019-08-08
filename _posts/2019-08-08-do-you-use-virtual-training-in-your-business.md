@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Use Virtual Training in Your Business?
-date: 2019-08-08 15:24:30
+date: 2019-08-08 15:24:00
 tags:
   - Transaction Management
 excerpt: >-
