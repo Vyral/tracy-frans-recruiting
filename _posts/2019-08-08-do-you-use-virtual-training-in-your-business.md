@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-6---tracy--brandon-frans---youtube.jpg
-youtube_code: 'https://www.youtu.be/mjjr_1szvKo'
+youtube_code: TQNufsnpXvw
 ---
 
 {% include youtube.html %}
