@@ -22,7 +22,7 @@ youtube_code: mjjr_1szvKo
 
 All agents agree that education is important, but what’s it doing for your business? How do you access that education?
 
-**Virtual training is a major reason for our success.** As a tool, it provides plug-and-play, instantaneous education. Your education needs usable and attainable at any time, which is why we have weekly training sessions involving high-level real estate discussions that are recorded—so you can watch them whether it’s 9 a.m. or 9 p.m.&nbsp;
+**Virtual training is a major reason for our success.** As a tool, it provides plug-and-play, instantaneous education. Your education needs to be usable and attainable at any time, which is why we have weekly training sessions involving high-level real estate discussions that are recorded—so you can watch them whether it’s 9 a.m. or 9 p.m.&nbsp;
 
 Another important way to implement education into your business is the dashboard. We love our dashboard recording. It gives us a 90-day out and a 120-day out. You have to know what’s going on in your business to make agile decisions on the run—not just for marketing and team growth, but also to serve your clients in the best way possible.&nbsp;
 
