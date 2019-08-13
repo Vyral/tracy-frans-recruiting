@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from eXp Realty - your professional Omaha Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Tracy Frans</managingEditor>
-    <lastBuildDate>2019-07-30 13:47:28 -0500</lastBuildDate>
+    <lastBuildDate>2019-08-13 13:41:12 -0500</lastBuildDate>
     <media:copyright>Tracy Frans</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Omaha, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,6 +25,47 @@
       <itunes:category text="Education"/>
     
       <item>
+        <title>Do You Use Virtual Training in Your Business?</title>
+        <link>http://localhost:4000/do-you-use-virtual-training-in-your-business.html</link>
+        
+          <category>Transaction Management</category>
+        
+        <author>Tracy Frans</author>
+        <pubDate>2019-08-08 10:24:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+All agents agree that education is important, but what’s it doing for your business? How do you access that education?
+
+Virtual training is a major reason for our success. As a tool, it provides plug-and-play, instantaneous education. Your education needs to be usable and attainable at any time, which is why we have weekly training sessions involving high-level real estate discussions that are recorded—so you can watch them whether it’s 9 a.m. or 9 p.m. 
+
+Another important way to implement education into your business is the dashboard. We love our dashboard recording. It gives us a 90-day out and a 120-day out. You have to know what’s going on in your business to make agile decisions on the run—not just for marketing and team growth, but also to serve your clients in the best way possible. 
+
+A big part of your education is also who you collaborate with. Is it someone local or national? We’ve enjoyed collaborating with agents who were at $5 million and looking to get to $8 million. Are you a team leader who’s at $10 million and wants to get to $20 million? Have you been in the industry for 40 years and are looking for your way out?
+
+“You have to know what’s going on in your business to make agile decisions on the run.”
+
+In any case, you need the type of education that suits your business. Don’t fall into the “one-education-fits-all” trap. Find people who will help you grow and do specifically what you’re looking to do in your business. 
+
+Zoom calls have also been very effective in bringing agents together on a national scale, for mastermind groups, continuing education, and giving and getting value from other countries and states experiencing tremendous success. If you haven’t gotten into Zoom, just know that it’s the future of communication in our industry. I challenge you to connect with Zoom because it will change your day and make you more efficient every day. 
+
+The power of virtual training is ready and waiting at your fingertips. The only question is, how high do you want to reach? 
+
+If you have any questions about implementing virtual training into your education, don’t hesitate to reach out to us. We’d love to show you all the tools we use and work with you to help serve all of our clients to the highest degree. We look forward to hearing from you. 
+
+And remember—never stop learning!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>As an educational tool, virtual training has greatly benefited our team, and it can do the same for you.</itunes:subtitle>
+        <itunes:author>Tracy Frans</itunes:author>
+        <itunes:summary>As an educational tool, virtual training has greatly benefited our team, and it can do the same for you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Omaha, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>What Advantages Does a Cloud-Based Brokerage Have?</title>
         <link>http://localhost:4000/what-advantages-does-a-cloud-based-brokerage-have.html</link>
         
@@ -35,7 +76,7 @@
         <guid>https://vyralmarketing.s3.amazonaws.com/Tracy+Frans/What+Advantages+Does+a+Cloud-Based+Brokerage+Have_.mp4</guid>
         <description>
 
-There are basically only four business models that have ever existed in the real estate industry: local/traditional brokerages, national franchises, the boutique model, and our own cloud model. A cloud-based brokerage represents a place where we can get together and work extremely efficiently along with our brokers, staff, and all agents with having the ability to work from anywhere. We’re paperless, but that’s one small part of being a cloud-based brokerage. We’ve increased our productivity while decreasing our operational costs. We’re able to get more help on our files more quickly than we ever could at a brokerage’s office. Most importantly, it’s allowed us to connect with top agents from around the world.
+There are basically only four business models that have ever existed in the real estate industry: local/traditional brokerages, national franchises, the boutique model, and cutting-edge cloud brokerage. A cloud-based brokerage represents a place where we can get together and work extremely efficiently along with our brokers, staff, and all agents with having the ability to work from anywhere. We’re paperless, but that’s one small part of being a cloud-based brokerage. We’ve increased our productivity while decreasing our operational costs. We’re able to get more help on our files more quickly than we ever could at a brokerage’s office. Most importantly, it’s allowed us to connect with top agents from around the world.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Tracy+Frans/What+Advantages+Does+a+Cloud-Based+Brokerage+Have_.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
