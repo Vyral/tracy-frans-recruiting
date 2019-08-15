@@ -5,8 +5,8 @@ permalink: /strategy-call/
 ---
 
 <div class="recruiting-page">
-<h1 class="join-us">Lets connect to talk business opportunities</h1>
-<h5 class="join-us-subtitle">the vision is strong for rockstar agents and those getting started!</h5>
+<h1 class="join-us">Let's Connect to Talk Business Opportunities</h1>
+<h5 class="join-us-subtitle">The Vision is Strong for Rockstar Agents and Those Getting Started!</h5>
 
 <p>ATTENTION REALTORS!</p>
 
