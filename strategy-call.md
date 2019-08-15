@@ -12,7 +12,7 @@ permalink: /strategy-call/
 
 <p>Do you like to share abundance? We are seeing how starting many small fires can turn into a huge fire quickly!</p>
 
-<p>Sharing vision can help help reassure or realign any business plan! We have met with brokers, power agents, team leads and newly licensed.</p>
+<p>Sharing vision can help reassure or realign any business plan! We have met with brokers, power agents, team leads and newly licensed.</p>
 
 <p>The light at the end of the tunnel can be sometimes be a train - the more you see along the way will be sure to keep you on the correct track!</p>
 
