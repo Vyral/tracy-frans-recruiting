@@ -2679,6 +2679,9 @@ form select {
   display: block;
   margin: 0 auto; }
 
+.full-image {
+  width: 100%; }
+
 .value-image {
   width: 100%;
   display: block;
