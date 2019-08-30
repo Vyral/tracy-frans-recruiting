@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/MaKo0p0JSus'
 
 {% include youtube.html %}
 
-Today I’m joined by Cody Levinson of Churchill Mortgage to talk about how we implement a couple key pieces of technology into our business to give our clients—in this case, homebuyers— a better overall experience.&nbsp;
+Today I’m joined by Cody Levinson of Churchill Mortgage to talk about how we implement a couple of key pieces of technology into our business to give our clients—in this case, homebuyers— a better overall experience.&nbsp;
 
 First, an important way we speed up the home buying process and get to know our buyers is by getting them pre-approved, and **now we’re able to text them an app that speeds up the pre-approval process and gives us more insight into the mortgage field.&nbsp;**
 
