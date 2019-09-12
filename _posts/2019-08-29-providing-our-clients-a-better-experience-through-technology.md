@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   We’ve implemented a couple key pieces of technology into our business to
   better serve our clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tracy+Frans/Providing+Our+Clients+a+Better+Experience+Through+Technology.mp4
 pullquote: >-
   Partnering with a vendor who knows how to partner with technology not only
   increases our business, but it also provides a better experience to our
