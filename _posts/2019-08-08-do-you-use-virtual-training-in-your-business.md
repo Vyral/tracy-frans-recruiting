@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   As an educational tool, virtual training has greatly benefited our team, and
   it can do the same for you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tracy+Frans/Do+You+Use+Virtual+Training+in+Your+Business_.mp4
 pullquote: >-
   You have to know what’s going on in your business to make agile decisions on
   the run.
