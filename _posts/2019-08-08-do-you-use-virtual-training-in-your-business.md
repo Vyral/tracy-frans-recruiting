@@ -14,7 +14,7 @@ pullquote: >-
   the run.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/8-6---tracy--brandon-frans---youtube.jpg
 youtube_code: PwTeYKqWaqQ
 ---
