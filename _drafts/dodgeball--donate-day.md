@@ -3,7 +3,6 @@ layout: post
 title: Dodgeball & Donate Day
 date: 2019-09-23 14:00:00
 tags:
-  - Events
 excerpt: >-
   I’m super blessed to be in the best industry ever—but now it’s time to give
   back. Join us on October 7 from 10 a.m. to noon for Dodgeball and Donate Day.
