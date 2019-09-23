@@ -15,7 +15,7 @@ pullquote: >-
   clients.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/8-27---tracy--brandon-frans---youtube.jpg
 youtube_code: 'https://youtu.be/MaKo0p0JSus'
 ---
