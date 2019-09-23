@@ -16,7 +16,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/9.23_-_Tracy_&_Brandon_Frans_-_YouTube.jpg
 youtube_code: 'https://youtu.be/9OSzxPs1VV8'
 ---
 
