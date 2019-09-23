@@ -24,7 +24,7 @@ youtube_code: 'https://youtu.be/9OSzxPs1VV8'
 
 I’m super blessed to be in the best industry ever—but now it’s time to give back.&nbsp;
 
-[**Join us on October 7 from 10 a.m. to noon for Dodgeball and Donate Day.**](https://www.eventbrite.com/o/agent-owners-17651125989){: target="_blank"}HWA Warranty will be sponsoring a smoothie truck, and all donations go toward filling hope totes for the Open Door Mission. All you have to do is bring essential items like shampoo, conditioner, toothbrushes, and similar.&nbsp;
+**[Join us on October 7 from 10 a.m. to noon for Dodgeball and Donate Day.](https://www.eventbrite.com/o/agent-owners-17651125989){: target="_blank"}&nbsp;**HWA Warranty will be sponsoring a smoothie truck, and all donations go toward filling hope totes for the Open Door Mission. All you have to do is bring essential items like shampoo, conditioner, toothbrushes, and similar.&nbsp;
 
 Be sure to save the date\! We look forward to seeing you there.&nbsp;
 
