@@ -28,4 +28,4 @@ I’m super blessed to be in the best industry ever—but now it’s time to giv
 
 Be sure to save the date\! We look forward to seeing you there.&nbsp;
 
-As always, if you have any questions for us here at eXp Realty, don’t hesitate to reach out\!<br>&nbsp;
+As always, if you have any questions for us here at eXp Realty, don’t hesitate to reach out\!
