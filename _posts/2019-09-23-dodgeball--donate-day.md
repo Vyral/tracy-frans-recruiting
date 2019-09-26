@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9.23_-_Tracy_&_Brandon_Frans_-_YouTube.jpg
-youtube_code: qXCwVJMy8P0
+youtube_code: uOLK_cMq4P4
 ---
 
 {% include youtube.html %}
